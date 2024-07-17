@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:chewie/chewie.dart';
 
 class SecondPage extends StatefulWidget {
   const SecondPage({Key? key}) : super(key: key);
@@ -8,6 +9,7 @@ class SecondPage extends StatefulWidget {
 }
 
 class _SecondPageState extends State<SecondPage> {
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(

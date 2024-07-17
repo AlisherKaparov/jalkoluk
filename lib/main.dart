@@ -165,6 +165,7 @@ class ChoiceButtonWidget extends StatelessWidget {
             ));
           },
           child: Container(
+            // decoration: BoxDecoration
             width: 300.0,
             height: 50.0,
             child: Center(
