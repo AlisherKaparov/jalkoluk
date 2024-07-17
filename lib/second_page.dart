@@ -14,7 +14,7 @@ class _SecondPageState extends State<SecondPage> {
       body: Container(
         decoration: const BoxDecoration(
             image: DecorationImage(
-          image: AssetImage('assets/images/'),
+          image: AssetImage('assets/video/myFamily.mp4'),
           fit: BoxFit.cover,
         )),
         child: Container(
